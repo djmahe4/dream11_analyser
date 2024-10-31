@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
-from shit import rec_main,dream11
+from mainn import rec_main,dream11
 from closer import closer
 
 brave_path = r"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"
